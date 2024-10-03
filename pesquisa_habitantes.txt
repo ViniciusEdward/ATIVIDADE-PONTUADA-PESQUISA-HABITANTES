@@ -1,0 +1,8 @@
+
+Total de famílias que responderam: 3 
+Média salarial da população: R$6666.67
+Maior idade do grupo: 32 anos 
+Menor idade do grupo: 19 anos
+Quantos homens responderam: 0 
+Quantas mulheres responderam: 3 
+Mulheres que recebem mais de R$ 5000,003
